@@ -1,0 +1,8 @@
+  <style>
+    <![CDATA[
+    polygon.shading {
+        stroke: none;
+        shape-rendering: crispEdges;
+    }
+    ]]>
+  </style>

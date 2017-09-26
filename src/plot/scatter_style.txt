@@ -1,0 +1,9 @@
+  <style>
+    <![CDATA[
+    circle {
+        fill: silver;
+        fill-opacity: 0.85;
+        stroke: black;
+    }
+    ]]>
+  </style>

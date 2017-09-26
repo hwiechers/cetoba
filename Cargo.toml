@@ -1,0 +1,12 @@
+[package]
+name = "cetoba"
+version = "0.1.0"
+authors = ["Henri Wiechers <henri@wiechers.me>"]
+license = "MIT OR Apache-2.0"
+description = "A utility for analyzing computer chess opening books via results"
+readme = "README.md"
+
+[dependencies]
+chess_pgn_parser = "0"
+clap = "2"
+special = "0"
